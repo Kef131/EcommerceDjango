@@ -1,0 +1,20 @@
+INFO 2015-09-18 01:30:44,954 views Order #100001: beginning submission process for basket #1
+INFO 2015-09-18 01:30:44,984 views Order #100001: payment successful, placing order
+INFO 2015-09-18 01:30:45,134 mixins Order #100001 - sending ORDER_PLACED messages
+INFO 2015-09-18 01:30:45,135 utils Sending email to superuser@example.com
+INFO 2015-11-24 17:12:25,485 views Order #100003: beginning submission process for basket #3
+INFO 2015-11-24 17:12:25,497 views Order #100003: payment successful, placing order
+INFO 2015-11-24 17:12:25,667 mixins Order #100003 - sending ORDER_PLACED messages
+INFO 2015-11-24 17:12:25,669 utils Sending email to superuser@example.com
+INFO 2015-11-24 17:56:12,950 views Order #100006: beginning submission process for basket #6
+INFO 2015-11-24 17:56:12,956 views Order #100006: payment successful, placing order
+INFO 2015-11-24 17:56:13,378 mixins Order #100006 - sending ORDER_PLACED messages
+INFO 2015-11-24 17:56:13,386 utils Sending email to superuser@example.com
+INFO 2015-11-24 18:09:49,807 views Order #100007: beginning submission process for basket #7
+INFO 2015-11-24 18:09:49,809 views Order #100007: payment successful, placing order
+INFO 2015-11-24 18:09:49,926 mixins Order #100007 - sending ORDER_PLACED messages
+INFO 2015-11-24 18:09:49,928 utils Sending email to superuser@example.com
+INFO 2015-11-24 19:03:16,542 views Order #100008: beginning submission process for basket #8
+INFO 2015-11-24 19:03:16,551 views Order #100008: payment successful, placing order
+INFO 2015-11-24 19:03:17,028 mixins Order #100008 - sending ORDER_PLACED messages
+INFO 2015-11-24 19:03:17,034 utils Sending email to superuser@example.com
